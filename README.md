@@ -8,7 +8,7 @@ Kaggleの公開データ（Telco Customer Churn）を用いて、通信会社の
 
 - **課題**: 通信会社の顧客（約7,000件）から、解約しそうな顧客を予測し離反を防ぐ
 - **データ**: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)（Kaggle）
-- **成果物**: [分析ノートブック](./churn_pre.ipynb) ← ファイル名は実際のものに合わせる
+- **成果物**: [分析ノートブック](./telco-churn-prediction.ipynb)
 - **実行環境**: AWS SageMaker Studio
 
 ##  使用技術
